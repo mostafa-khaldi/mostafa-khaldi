@@ -1,7 +1,7 @@
 # Hallo willkommen, my name is Mostafa (a.k.a Moos)
 I am a
 - 👨‍💻 Full stack web developer
-- 🖌 Graphic designer
+- 🖌 UI/UX designer
 - 💼 Active freelancer on www.freelancer.com/u/Moos23 <br/>
 
 And
