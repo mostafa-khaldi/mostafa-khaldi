@@ -2,7 +2,6 @@
 I am a
 - 👨‍💻 Full stack web developer
 - 🖌 UI/UX designer
-- 💼 Active freelancer on www.freelancer.com/u/Moos23 <br/>
 
 And
 - 📧 For job inquiries 👉 k.mostafa@kontextt.com
