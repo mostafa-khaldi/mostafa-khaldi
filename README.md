@@ -1,4 +1,4 @@
-# Hallo willkommen, my name is Mostafa (a.k.a Moos)
+# Hello, my name is Mostafa (a.k.a Moos)
 I am a
 - 👨‍💻 Full stack web developer
 - 🖌 UI/UX designer
